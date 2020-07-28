@@ -20,12 +20,6 @@ I write a lot of code. Professionally I'm a site-reliability engineer, privately
 - [`lapis`](https://github.com/rgrannell1/lapis): git-aware benchmarking
 - [`utils`](https://github.com/rgrannell1/utils): monorepo of my node.js utility code
 
-### Art
-
-- [`poly2020`](https://github.com/rgrannell1/poly2020): plot solutions to billions of polynomials, to create beautiful fractals.
-- [`lissajous poster`](https://github.com/rgrannell1/lissajous-poster): draw lissajous curve images
-- [`irish internet`](https://github.com/rgrannell1/irish-internet): ireland's twitter usage in 2014
-
 ### Languages
 
 - [`visp`](https://github.com/rgrannell1/visp): vau-calculus metaprogramming without lisp parens
@@ -37,11 +31,8 @@ I write a lot of code. Professionally I'm a site-reliability engineer, privately
 - [`cloud-init-compile`](https://github.com/rgrannell1/cloud-init-compile): bundles scripts and data files into a cloud-init-friendly script
 - [`snapped`](https://github.com/rgrannell1/snapped): automate several minor-but-time-consuming ElasticSerch tasks
 
-### 💩
+### Art
 
-- [`don't drop me`](https://github.com/rgrannell1/don-t-drop-me): makes your phone scream when you drop it
-- [`π`](https://github.com/rgrannell1/pi): find your own useless π appromixation
-- [`be gay, do pride`](https://github.com/rgrannell1/be-gay-do-crime): a pride poster
-- [`loog at this photograph`](https://github.com/rgrannell1/loogatthisphotograph): nickelback will tell you to look at a goose
-- [`yap`](https://github.com/rgrannell1/yap): a chatty URL
-
+- [`poly2020`](https://github.com/rgrannell1/poly2020): plot solutions to billions of polynomials, to create beautiful fractals.
+- [`lissajous poster`](https://github.com/rgrannell1/lissajous-poster): draw lissajous curve images
+- [`irish internet`](https://github.com/rgrannell1/irish-internet): ireland's twitter usage in 2014
