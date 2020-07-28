@@ -2,9 +2,11 @@
 
 (she/her, they/them)
 
-I write a lot of code. Professionally I'm a site-reliability engineer, privately I write CLI tools, websites, frameworks, and occasionally data-analysis projects.
+I write a lot of code. Professionally I'm a site-reliability engineer, in my free time I write CLI tools, websites, frameworks, and occasionally data-analysis projects. Install Kale, it's very useful! 
 
-### Apps
+[📦](https://snapcraft.io/kale)
+
+### CLIs
 
 - [`kale`](https://github.com/rgrannell1/kale): highlight logs using regular expressions
 - [`polonium`](https://github.com/rgrannell1/polonium): stateless password manager
