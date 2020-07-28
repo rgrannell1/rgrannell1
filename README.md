@@ -38,4 +38,4 @@ I write a lot of code. Professionally I'm a site-reliability engineer, privately
 ### 💩
 
 - [`don't drop me`](https://github.com/rgrannell1/don-t-drop-me): makes your phone scream when you drop it
-- [`π`](https://github.com/rgrannell1/pi): find a personal π appromixation
+- [`π`](https://github.com/rgrannell1/pi): find your own useless π appromixation
