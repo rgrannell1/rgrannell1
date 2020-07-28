@@ -6,6 +6,8 @@ I write a lot of code. Professionally I'm a site-reliability engineer, in my fre
 
 ![a pheasant](./percival.png)
 
+> Percival, our tamed wild pheasant who pecks at our door for Weetabix 
+
 ### CLIs
 
 - [`kale`](https://github.com/rgrannell1/kale): highlight logs using regular expressions [📦](https://snapcraft.io/kale)
