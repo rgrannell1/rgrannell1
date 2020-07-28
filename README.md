@@ -12,3 +12,27 @@ I write a lot of code. Professionally I'm a site-reliability engineer, privately
 - [`cuptime`](https://github.com/rgrannell1/cuptime): measure connection latency and stability
 - [`guake-cl`](https://github.com/rgrannell1/guake-cl): change guake colour-schemes
 - [`linux-cl`](https://github.com/rgrannell1/linux-cl): change terminal colour-schemes
+
+### Frameworks
+
+- [`revexp`](https://github.com/rgrannell1/revexp): reverse regular-expressions
+- [`lapis`](https://github.com/rgrannell1/lapis): git-aware benchmarking
+- [`utils`](https://github.com/rgrannell1/utils): monorepo of my node.js utility code
+
+### Art
+
+- [`poly2020`](https://github.com/rgrannell1/poly2020): plot solutions to billions of polynomials, to create beautiful fractals.
+
+
+
+
+### DevOps Tools
+
+- [`cloud-init-compile`](https://github.com/rgrannell1/cloud-init-compile): bundles scripts and data files into a cloud-init-friendly script
+- [`snapped`](https://github.com/rgrannell1/snapped): automate several minor-but-time-consuming ElasticSerch tasks
+-
+
+### 💩
+
+- [`don't drop me`](https://github.com/rgrannell1/don-t-drop-me): makes your phone scream when you drop it
+
