@@ -1,5 +1,7 @@
 ### Hi, I'm Róisín 👋
 
+(she/her, they/them)
+
 I write a lot of code. Professionally I'm a site-reliability engineer, privately I write CLI tools, websites, frameworks, and occasionally data-analysis projects.
 
 ### Apps
