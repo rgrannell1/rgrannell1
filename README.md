@@ -4,7 +4,7 @@
 
 I write a lot of code. Professionally I'm a site-reliability engineer, in my free time I write CLI tools, websites, frameworks, and occasionally data-analysis projects.
 
-![a pheasant](./percival.png)
+![a pheasant](https://raw.githubusercontent.com/rgrannell1/rgrannell1/master/percival.png)
 
 > Percival, our tamed wild pheasant who pecks at our door for Weetabix 
 
