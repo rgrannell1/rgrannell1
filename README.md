@@ -2,15 +2,15 @@
 
 (she/her, they/them)
 
-I write a lot of code. Professionally I'm a site-reliability engineer, in my free time I write CLI tools, websites, frameworks, and occasionally data-analysis projects. Install Kale, it's very useful! 
+I write a lot of code. Professionally I'm a site-reliability engineer, in my free time I write CLI tools, websites, frameworks, and occasionally data-analysis projects.
 
-[📦](https://snapcraft.io/kale)
+
 
 ### CLIs
 
-- [`kale`](https://github.com/rgrannell1/kale): highlight logs using regular expressions
-- [`polonium`](https://github.com/rgrannell1/polonium): stateless password manager
-- [`rpgen`](https://github.com/rgrannell1/rpgen): generate memorable secure passwords
+- [`kale`](https://github.com/rgrannell1/kale): highlight logs using regular expressions [📦](https://snapcraft.io/kale)
+- [`polonium`](https://github.com/rgrannell1/polonium): stateless password manager [📦](https://snapcraft.io/polonium)
+- [`rpgen`](https://github.com/rgrannell1/rpgen): generate memorable secure passwords [📦](https://snapcraft.io/rpgen)
 - [`cuptime`](https://github.com/rgrannell1/cuptime): measure connection latency and stability
 - [`guake-cl`](https://github.com/rgrannell1/guake-cl): change guake colour-schemes
 - [`linux-cl`](https://github.com/rgrannell1/linux-cl): change terminal colour-schemes
