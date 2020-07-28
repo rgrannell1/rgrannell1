@@ -29,6 +29,7 @@ I write a lot of code. Professionally I'm a site-reliability engineer, privately
 ### Languages
 
 - [`visp`](https://github.com/rgrannell1/visp): vau-calculus metaprogramming without lisp parens
+- [`lisb`](https://github.com/rgrannell1/lisb): json-embedded lisp dialect
 
 
 ### DevOps Tools
@@ -43,4 +44,5 @@ I write a lot of code. Professionally I'm a site-reliability engineer, privately
 - [`π`](https://github.com/rgrannell1/pi): find your own useless π appromixation
 - [`be gay, do pride`](https://github.com/rgrannell1/be-gay-do-crime): a pride poster
 - [`loog at this photograph`](https://github.com/rgrannell1/loogatthisphotograph): nickelback will tell you to look at a goose
+- [`yap`](https://github.com/rgrannell1/yap): a chatty URL
 
