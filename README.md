@@ -8,6 +8,10 @@ I write a lot of code. Professionally I'm a site-reliability engineer, in my fre
 
 > Percival, a wild pheasant who pecks at our door for Weetabix 
 
+![a smiling gecko](https://raw.githubusercontent.com/rgrannell1/rgrannell1/master/noodle.png)
+
+> Noodle, a perplexing but cute baby leopard gecko
+
 ### CLIs
 
 - [`kale`](https://github.com/rgrannell1/kale): highlight logs using regular expressions [📦](https://snapcraft.io/kale)
