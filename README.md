@@ -12,6 +12,7 @@ I write a lot of code. Professionally I'm a site-reliability engineer, privately
 - [`cuptime`](https://github.com/rgrannell1/cuptime): measure connection latency and stability
 - [`guake-cl`](https://github.com/rgrannell1/guake-cl): change guake colour-schemes
 - [`linux-cl`](https://github.com/rgrannell1/linux-cl): change terminal colour-schemes
+- [`password123`](https://github.com/rgrannell1/password123.js): detect common passwords
 
 ### Frameworks
 
@@ -22,7 +23,8 @@ I write a lot of code. Professionally I'm a site-reliability engineer, privately
 ### Art
 
 - [`poly2020`](https://github.com/rgrannell1/poly2020): plot solutions to billions of polynomials, to create beautiful fractals.
-
+- [`lissajous poster`](https://github.com/rgrannell1/lissajous-poster): draw lissajous curve images
+- [`irish internet`](https://github.com/rgrannell1/irish-internet): ireland's twitter usage in 2014
 
 ### Languages
 
@@ -39,3 +41,6 @@ I write a lot of code. Professionally I'm a site-reliability engineer, privately
 
 - [`don't drop me`](https://github.com/rgrannell1/don-t-drop-me): makes your phone scream when you drop it
 - [`π`](https://github.com/rgrannell1/pi): find your own useless π appromixation
+- [`be gay, do pride`](https://github.com/rgrannell1/be-gay-do-crime): a pride poster
+- [`loog at this photograph`](https://github.com/rgrannell1/loogatthisphotograph): nickelback will tell you to look at a goose
+
