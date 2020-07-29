@@ -4,6 +4,8 @@
 
 I write a lot of code. Professionally I'm a site-reliability engineer, in my free time I write CLI tools, websites, frameworks, and occasionally data-analysis projects.
 
+First, some of my favourite animals:
+
 ![a pheasant](https://raw.githubusercontent.com/rgrannell1/rgrannell1/master/percival.png)
 
 > Percival, a wild pheasant who pecks at our door for Weetabix 
