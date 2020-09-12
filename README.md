@@ -19,6 +19,7 @@ First, some of my favourite animals:
 - [`kale`](https://github.com/rgrannell1/kale): highlight logs using regular expressions [📦](https://snapcraft.io/kale)
 - [`polonium`](https://github.com/rgrannell1/polonium): stateless password manager [📦](https://snapcraft.io/polonium)
 - [`rpgen`](https://github.com/rgrannell1/rpgen): generate memorable secure passwords [📦](https://snapcraft.io/rpgen)
+- [`hotline`](https://github.com/rgrannell1/hotline): open links faster
 - [`cuptime`](https://github.com/rgrannell1/cuptime): measure connection latency and stability
 - [`guake-cl`](https://github.com/rgrannell1/guake-cl): change guake colour-schemes
 - [`linux-cl`](https://github.com/rgrannell1/linux-cl): change terminal colour-schemes
