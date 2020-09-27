@@ -16,6 +16,7 @@ First, some of my favourite animals:
 
 ### CLIs
 
+- [`kohl`](https://github.com/rgrannell1/kohl): a pager for highlighting & searching through logs
 - [`kale`](https://github.com/rgrannell1/kale): highlight logs using regular expressions [📦](https://snapcraft.io/kale)
 - [`polonium`](https://github.com/rgrannell1/polonium): stateless password manager [📦](https://snapcraft.io/polonium)
 - [`rpgen`](https://github.com/rgrannell1/rpgen): generate memorable secure passwords [📦](https://snapcraft.io/rpgen)
