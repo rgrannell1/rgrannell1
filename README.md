@@ -29,6 +29,7 @@ First, some of my favourite animals:
 ### Frameworks
 
 - [`revexp`](https://github.com/rgrannell1/revexp): reverse regular-expressions
+- [`inkling`](https://github.com/rgrannell1/inkling): test ink/react based CLIs
 - [`lapis`](https://github.com/rgrannell1/lapis): git-aware benchmarking
 - [`utils`](https://github.com/rgrannell1/utils): monorepo of my node.js utility code
 
