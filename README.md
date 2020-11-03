@@ -37,6 +37,7 @@ First, some of my favourite animals:
 
 - [`visp`](https://github.com/rgrannell1/visp): vau-calculus metaprogramming without lisp parens
 - [`lisb`](https://github.com/rgrannell1/lisb): json-embedded lisp dialect
+- [`crab`](https://github.com/rgrannell1/crab): unary crab-based language
 
 
 ### DevOps Tools
