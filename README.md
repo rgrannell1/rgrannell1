@@ -6,11 +6,11 @@ I write a lot of code. Professionally I'm a site-reliability engineer, in my fre
 
 First, some of my favourite animals:
 
-![a pheasant](https://raw.githubusercontent.com/rgrannell1/rgrannell1/master/percival.png)
+<img src="https://raw.githubusercontent.com/rgrannell1/rgrannell1/master/percival.png" width="300">
 
 > Percival, a wild pheasant who pecks at our door for Weetabix 
 
-![a smiling gecko](https://raw.githubusercontent.com/rgrannell1/rgrannell1/master/noodle.png)
+<img src="https://raw.githubusercontent.com/rgrannell1/rgrannell1/master/noodle.png" width="300">
 
 > Noodle, a perplexing but cute baby leopard gecko
 
