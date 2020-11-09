@@ -25,6 +25,7 @@ First, some of my favourite animals:
 - [`guake-cl`](https://github.com/rgrannell1/guake-cl): change guake colour-schemes
 - [`linux-cl`](https://github.com/rgrannell1/linux-cl): change terminal colour-schemes
 - [`password123`](https://github.com/rgrannell1/password123.js): detect common passwords
+- [`gecko`](https://github.com/rgrannell1/gecko): echo with colours
 
 ### Frameworks
 
