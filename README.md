@@ -16,7 +16,7 @@ First, some of my favourite animals:
 
 ### CLIs
 
-- [`kohl`](https://github.com/rgrannell1/kohl): a pager for highlighting & searching through logs [📦](https://snapcraft.io/kohl)
+- [`kohl`](https://github.com/rgrannell1/kohl): a pager to highlight & search through logs [📦](https://snapcraft.io/kohl)
 - [`kale`](https://github.com/rgrannell1/kale): highlight logs using regular expressions [📦](https://snapcraft.io/kale)
 - [`polonium`](https://github.com/rgrannell1/polonium): stateless password manager [📦](https://snapcraft.io/polonium)
 - [`rpgen`](https://github.com/rgrannell1/rpgen): generate memorable secure passwords [📦](https://snapcraft.io/rpgen)
@@ -26,6 +26,7 @@ First, some of my favourite animals:
 - [`linux-cl`](https://github.com/rgrannell1/linux-cl): change terminal colour-schemes
 - [`password123`](https://github.com/rgrannell1/password123.js): detect common passwords
 - [`gecko`](https://github.com/rgrannell1/gecko): echo with colours
+- [`hq`](https://github.com/rgrannell1/hq): command-line html querySelector
 
 ### Frameworks
 
