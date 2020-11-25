@@ -46,6 +46,7 @@ First, some of my favourite animals:
 
 - [`cloud-init-compile`](https://github.com/rgrannell1/cloud-init-compile): bundles scripts and data files into a cloud-init-friendly script
 - [`snapped`](https://github.com/rgrannell1/snapped): automate several minor-but-time-consuming ElasticSerch tasks
+- [`peruse`](https://github.com/rgrannell1/peruse): scroll through webpages automatically
 
 ### Art
 
