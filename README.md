@@ -12,7 +12,7 @@ First, some of my favourite animals:
 
 <img src="https://raw.githubusercontent.com/rgrannell1/rgrannell1/master/noodle.png" width="300">
 
-> Noodle, a perplexing but cute baby leopard gecko
+> Noodle, my gecko
 
 ### CLIs
 
