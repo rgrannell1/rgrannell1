@@ -27,6 +27,7 @@ First, some of my favourite animals:
 - [`password123`](https://github.com/rgrannell1/password123.js): detect common passwords
 - [`gecko`](https://github.com/rgrannell1/gecko): echo with colours
 - [`hq`](https://github.com/rgrannell1/hq): command-line html querySelector
+- [`mole`](https://github.com/rgrannell1/mole): extracts Chrome's history files as JSON
 
 ### Frameworks
 
