@@ -16,6 +16,9 @@ First, some of my favourite animals:
 
 ### CLIs
 
+- [`liteq`](https://github.com/rgrannell1/liteq): executes SQL queries and captures the results as JSON
+
+
 - [`kohl`](https://github.com/rgrannell1/kohl): a pager to highlight & search through logs [📦](https://snapcraft.io/kohl)
 - [`kale`](https://github.com/rgrannell1/kale): highlight logs using regular expressions [📦](https://snapcraft.io/kale)
 - [`polonium`](https://github.com/rgrannell1/polonium): stateless password manager [📦](https://snapcraft.io/polonium)
